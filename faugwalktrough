@@ -1,0 +1,114 @@
+{ 
+    
+    "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=",
+        "interid": "ca-app-pub-3894406405433389/8966707841",
+        "nativeid": "ca-app-pub-3894406405433389/3522809472",
+        "deskripsi_update": "Ini mah hanya contoh saja promosi iklan via json",
+        "link_update": "https://www.google.com/",
+        "interval": 3,
+        "pengaturan_iklan":"1",
+        "startappid":"200707504",
+        "version_app":1,
+        "fan_inter":"YOUR_PLACEMENT_ID",
+        "fan_banner_native":"YOUR_PLACEMENT_ID",
+         "id_inmobi":"1234567890qwerty0987654321qwerty12345",
+        "inmobi_inter":1476878485960,
+        "inmobi_banner":1473189489298,
+        "hpk_admob1":"",
+        "hpk_admob2":"",
+        "hpk_admob3":"",
+        "hpk_admob4":"",
+        "hpk_admob5":""
+        }
+    ],
+    
+    "More":
+  [
+  {
+    "id":1,
+    "judul":"x",
+    "image":"x",
+    "link":"x"
+  },
+  {
+    "id":2,
+    "judul":"x",
+    "image":"x",
+    "link":"x"
+  },
+  {
+    "id":3,
+    "judul":"x",
+    "image":"x",
+    "link":"x"
+  }
+],
+
+
+"Categories": [
+    {
+      "id": 1,
+      "nama_cat": "Easy",
+      "gambar": "https://1.bp.blogspot.com/-6qby6s0DWnI/X2yhe4OqxqI/AAAAAAAAAC4/BwFrRLPHdPQkV-WFMPL7SgE2wrGC5kM6QCLcBGAsYHQ/s1280/unggulan%2B1.png"
+     
+    },
+    {
+      "id": 2,
+      "nama_cat": "Medium",
+      "gambar": "https://1.bp.blogspot.com/-1Cn1CFyln5k/X2yhgPMX4XI/AAAAAAAAAC8/sdeF5WHkuv8k47dcW31zGy18utFyBNkmACLcBGAsYHQ/s1280/unggulan%2B2.png"
+    
+    },
+    {
+      "id": 3,
+      "nama_cat": "Hard",
+      "gambar": "https://1.bp.blogspot.com/-aDx55eaHfeo/X2yhgk9wO0I/AAAAAAAAADA/oaBm-puyyYUdHWeKptlVFmv79BF9teEUwCLcBGAsYHQ/s1280/unggulan%2B4.png"
+    
+    }
+  ],
+
+  "Data":
+[
+  {
+    "id":1,
+    "id_guide":"001",
+    "nama_cat":"Easy",
+    "judul":"About Game FAUG",
+    "image":"https://1.bp.blogspot.com/-yOxEE3qmhvQ/X2x04NalRZI/AAAAAAAAACE/3GeupL5GGWgvwlmwZk8JBFt9k0KmzCfoACLcBGAsYHQ/s1024/grafik.png",
+    "link":"https://faugwalktroughfauji.blogspot.com/2020/09/about.html",
+    "deskripsi":""
+  },
+  {
+    "id":2,
+     "id_guide":"002",
+    "nama_cat":"Easy",
+    "judul":"Walktrough Game FAUG",
+    "image":"https://1.bp.blogspot.com/-yOxEE3qmhvQ/X2x04NalRZI/AAAAAAAAACE/3GeupL5GGWgvwlmwZk8JBFt9k0KmzCfoACLcBGAsYHQ/s1024/grafik.png",
+    "link":"https://faugwalktroughfauji.blogspot.com/2020/09/walktrough-faug.html",
+    "deskripsi":""
+  },
+
+  {
+    "id":3,
+     "id_guide":"003",
+    "nama_cat":"Medium",
+    "judul":"FAUG 1",
+    "image":"https://1.bp.blogspot.com/-yOxEE3qmhvQ/X2x04NalRZI/AAAAAAAAACE/3GeupL5GGWgvwlmwZk8JBFt9k0KmzCfoACLcBGAsYHQ/s1024/grafik.png",
+    "link":"https://faugwalktroughfauji.blogspot.com/2020/09/faug-1.html",
+    "deskripsi":""
+  },
+  
+  {
+    "id":4,
+     "id_guide":"004",
+    "nama_cat":"Hard",
+    "judul":"FAUG 2",
+    "image":"https://1.bp.blogspot.com/-yOxEE3qmhvQ/X2x04NalRZI/AAAAAAAAACE/3GeupL5GGWgvwlmwZk8JBFt9k0KmzCfoACLcBGAsYHQ/s1024/grafik.png",
+    "link":"https://faugwalktroughfauji.blogspot.com/2020/09/faug-2.html",
+    "deskripsi":""
+  }
+
+]
+}
